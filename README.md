@@ -1,7 +1,7 @@
 # g2it
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that tweet all git changes on a repo
-
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=40de8412fc2d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## Setup
 
 ```sh
